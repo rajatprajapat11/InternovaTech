@@ -13,4 +13,4 @@ A professional desktop application developed in Python.
 - Progress bar
 - Statistics dashboard
 
-Developed for Interova Labs Internship.
+Developed for Education pupose.
