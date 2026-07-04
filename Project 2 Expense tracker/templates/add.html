@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>Add Transaction</h2>
+
+<form method="POST">
+
+    <label>Type</label>
+    <br>
+    <select name="type">
+    <option>Income</option>
+    <option>Expense</option>
+    </select>
+
+    <br><br>
+
+    <input
+    type="text"
+    name="category"
+    placeholder="Enter Category"
+    required>
+
+    <br><br>
+
+    <input
+    type="number"
+    name="amount"
+    placeholder="Enter Amount"
+    step="0.01"
+    required>
+
+    <br><br>
+
+    <input
+    type="text"
+    name="description"
+    placeholder="Enter Description">
+
+    <br><br>
+
+    <input
+    type="date"
+    name="date"
+    required>
+
+    <br><br>
+
+    <button type="submit">Save Transaction</button>
+
+</form>
+
+{% endblock %}
