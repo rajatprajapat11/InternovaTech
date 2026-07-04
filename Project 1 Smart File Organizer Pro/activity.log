@@ -1,0 +1,231 @@
+[INFO] 04-07-2026 14:44:03 : Application Started
+[WARNING] 04-07-2026 14:44:03 : This is a warning message.
+[ERROR] 04-07-2026 14:44:03 : This is an error message.
+[INFO] 04-07-2026 14:46:34 : Moved : NetMirror.apk → Programs
+[INFO] 04-07-2026 14:46:34 : Moved : Pankaj Kumar Financial Litterecy Certificate.png → Images
+[INFO] 04-07-2026 14:46:34 : Moved : python-3.14.6-amd64.exe.sigstore → Others
+[INFO] 04-07-2026 14:46:34 : Moved : Screen Recording 2026-06-22 172244.mp4 → Videos
+[INFO] 04-07-2026 14:46:34 : Moved : Screenshot 2026-02-13 192305.jpg.png → Images
+[INFO] 04-07-2026 14:46:34 : Moved : The Ultimate HTML handbook.pdf → Documents
+[INFO] 04-07-2026 14:46:34 : Moved : WhatsApp Audio 2026-03-23 at 1.55.31 PM.mpeg → Others
+[INFO] 04-07-2026 14:52:37 : Undo : C:\Users\rajat\OneDrive\Desktop\TestFolder\Others\WhatsApp Audio 2026-03-23 at 1.55.31 PM.mpeg -> C:\Users\rajat\OneDrive\Desktop\TestFolder\WhatsApp Audio 2026-03-23 at 1.55.31 PM.mpeg
+[INFO] 04-07-2026 14:52:37 : Undo : C:\Users\rajat\OneDrive\Desktop\TestFolder\Documents\The Ultimate HTML handbook.pdf -> C:\Users\rajat\OneDrive\Desktop\TestFolder\The Ultimate HTML handbook.pdf
+[INFO] 04-07-2026 14:52:37 : Undo : C:\Users\rajat\OneDrive\Desktop\TestFolder\Images\Screenshot 2026-02-13 192305.jpg.png -> C:\Users\rajat\OneDrive\Desktop\TestFolder\Screenshot 2026-02-13 192305.jpg.png
+[INFO] 04-07-2026 14:52:37 : Undo : C:\Users\rajat\OneDrive\Desktop\TestFolder\Videos\Screen Recording 2026-06-22 172244.mp4 -> C:\Users\rajat\OneDrive\Desktop\TestFolder\Screen Recording 2026-06-22 172244.mp4
+[INFO] 04-07-2026 14:52:37 : Undo : C:\Users\rajat\OneDrive\Desktop\TestFolder\Others\python-3.14.6-amd64.exe.sigstore -> C:\Users\rajat\OneDrive\Desktop\TestFolder\python-3.14.6-amd64.exe.sigstore
+[INFO] 04-07-2026 14:52:37 : Undo : C:\Users\rajat\OneDrive\Desktop\TestFolder\Images\Pankaj Kumar Financial Litterecy Certificate.png -> C:\Users\rajat\OneDrive\Desktop\TestFolder\Pankaj Kumar Financial Litterecy Certificate.png
+[INFO] 04-07-2026 14:52:37 : Undo : C:\Users\rajat\OneDrive\Desktop\TestFolder\Programs\NetMirror.apk -> C:\Users\rajat\OneDrive\Desktop\TestFolder\NetMirror.apk
+[INFO] 04-07-2026 14:56:13 : Moved : NetMirror.apk → Programs
+[INFO] 04-07-2026 14:56:13 : Moved : Pankaj Kumar Financial Litterecy Certificate - Copy - Copy.png → Images
+[INFO] 04-07-2026 14:56:13 : Moved : Pankaj Kumar Financial Litterecy Certificate - Copy.png → Images
+[INFO] 04-07-2026 14:56:13 : Moved : Pankaj Kumar Financial Litterecy Certificate.png → Images
+[INFO] 04-07-2026 14:56:13 : Moved : python-3.14.6-amd64.exe.sigstore → Others
+[INFO] 04-07-2026 14:56:13 : Moved : Screen Recording 2026-06-22 172244.mp4 → Videos
+[INFO] 04-07-2026 14:56:13 : Moved : Screenshot 2026-02-13 192305.jpg.png → Images
+[INFO] 04-07-2026 14:56:13 : Moved : The Ultimate HTML handbook.pdf → Documents
+[INFO] 04-07-2026 14:56:13 : Moved : WhatsApp Audio 2026-03-23 at 1.55.31 PM.mpeg → Others
+[INFO] 04-07-2026 15:00:04 : Moved : 24EJCCA170.pdf → Documents
+[INFO] 04-07-2026 15:00:04 : Moved : Adobe Scan 10 Feb 2026 (1).pdf → Documents
+[INFO] 04-07-2026 15:00:04 : Moved : C0348.MP4 → Videos
+[INFO] 04-07-2026 15:00:04 : Moved : DJI_20250308212020_0849_D_RAGHAV.MP4 → Videos
+[INFO] 04-07-2026 15:00:04 : Moved : dragon-studio-glitch-effect-1-397982.mp3 → Music
+[INFO] 04-07-2026 15:00:04 : Moved : freesound_community-glitch-sounds-26212.mp3 → Music
+[INFO] 04-07-2026 15:00:04 : Moved : IMG_0588.jpg → Images
+[INFO] 04-07-2026 15:00:04 : Moved : IMG_1453.MOV → Videos
+[INFO] 04-07-2026 15:00:04 : Moved : IMG_1466.MOV → Videos
+[INFO] 04-07-2026 15:00:04 : Moved : IMG_2550 2.MOV → Videos
+[INFO] 04-07-2026 15:00:04 : Moved : IMG_2565 2.MOV → Videos
+[INFO] 04-07-2026 15:00:04 : Moved : IMG_3413.MOV → Videos
+[INFO] 04-07-2026 15:00:04 : Moved : IMG_3414.MOV → Videos
+[INFO] 04-07-2026 15:00:04 : Moved : IMG_5157.MOV → Videos
+[INFO] 04-07-2026 15:00:04 : Moved : IMG_5158.MOV → Videos
+[INFO] 04-07-2026 15:00:04 : Moved : NetMirror.apk → Programs
+[INFO] 04-07-2026 15:00:04 : Moved : NetMirror_TV.apk → Programs
+[INFO] 04-07-2026 15:00:04 : Moved : NIFT_Converge_2025_A_glimpse_of_the_some_crazy_ah_moments_of_NIFTU_Inspiration_-_@paddy.cartwright_#NIFTConverge_#NIFTKannur_#Converge2025_#NIFTLife_#.mp4 → Videos
+[INFO] 04-07-2026 15:00:04 : Moved : python-3.14.6-amd64.exe → Programs
+[INFO] 04-07-2026 15:00:04 : Moved : python-3.14.6-amd64.exe.sigstore → Others
+[INFO] 04-07-2026 15:00:04 : Moved : QuickLook Installer.exe → Programs
+[INFO] 04-07-2026 15:00:04 : Moved : quicklook-4-4-0.exe → Programs
+[INFO] 04-07-2026 15:00:04 : Moved : Rajat.pdf → Documents
+[INFO] 04-07-2026 15:00:04 : Moved : RajatDraft1.docx.pdf → Documents
+[INFO] 04-07-2026 15:00:04 : Moved : RajatDraft2.pdf → Documents
+[INFO] 04-07-2026 15:00:04 : Moved : RajatDraft3.pdf → Documents
+[INFO] 04-07-2026 15:00:04 : Moved : Sunset beach png.jpg → Images
+[INFO] 04-07-2026 15:00:04 : Moved : UNTOLD.png → Images
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Images\UNTOLD.png -> D:/Download\UNTOLD.png
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Images\Sunset beach png.jpg -> D:/Download\Sunset beach png.jpg
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Documents\RajatDraft3.pdf -> D:/Download\RajatDraft3.pdf
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Documents\RajatDraft2.pdf -> D:/Download\RajatDraft2.pdf
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Documents\RajatDraft1.docx.pdf -> D:/Download\RajatDraft1.docx.pdf
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Documents\Rajat.pdf -> D:/Download\Rajat.pdf
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Programs\quicklook-4-4-0.exe -> D:/Download\quicklook-4-4-0.exe
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Programs\QuickLook Installer.exe -> D:/Download\QuickLook Installer.exe
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Others\python-3.14.6-amd64.exe.sigstore -> D:/Download\python-3.14.6-amd64.exe.sigstore
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Programs\python-3.14.6-amd64.exe -> D:/Download\python-3.14.6-amd64.exe
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Videos\NIFT_Converge_2025_A_glimpse_of_the_some_crazy_ah_moments_of_NIFTU_Inspiration_-_@paddy.cartwright_#NIFTConverge_#NIFTKannur_#Converge2025_#NIFTLife_#.mp4 -> D:/Download\NIFT_Converge_2025_A_glimpse_of_the_some_crazy_ah_moments_of_NIFTU_Inspiration_-_@paddy.cartwright_#NIFTConverge_#NIFTKannur_#Converge2025_#NIFTLife_#.mp4
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Programs\NetMirror_TV.apk -> D:/Download\NetMirror_TV.apk
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Programs\NetMirror.apk -> D:/Download\NetMirror.apk
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Videos\IMG_5158.MOV -> D:/Download\IMG_5158.MOV
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Videos\IMG_5157.MOV -> D:/Download\IMG_5157.MOV
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Videos\IMG_3414.MOV -> D:/Download\IMG_3414.MOV
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Videos\IMG_3413.MOV -> D:/Download\IMG_3413.MOV
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Videos\IMG_2565 2.MOV -> D:/Download\IMG_2565 2.MOV
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Videos\IMG_2550 2.MOV -> D:/Download\IMG_2550 2.MOV
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Videos\IMG_1466.MOV -> D:/Download\IMG_1466.MOV
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Videos\IMG_1453.MOV -> D:/Download\IMG_1453.MOV
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Images\IMG_0588.jpg -> D:/Download\IMG_0588.jpg
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Music\freesound_community-glitch-sounds-26212.mp3 -> D:/Download\freesound_community-glitch-sounds-26212.mp3
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Music\dragon-studio-glitch-effect-1-397982.mp3 -> D:/Download\dragon-studio-glitch-effect-1-397982.mp3
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Videos\DJI_20250308212020_0849_D_RAGHAV.MP4 -> D:/Download\DJI_20250308212020_0849_D_RAGHAV.MP4
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Videos\C0348.MP4 -> D:/Download\C0348.MP4
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Documents\Adobe Scan 10 Feb 2026 (1).pdf -> D:/Download\Adobe Scan 10 Feb 2026 (1).pdf
+[INFO] 04-07-2026 15:00:41 : Undo : D:/Download\Documents\24EJCCA170.pdf -> D:/Download\24EJCCA170.pdf
+[INFO] 04-07-2026 15:00:41 : Undo : C:\Users\rajat\OneDrive\Desktop\TestFolder\Others\WhatsApp Audio 2026-03-23 at 1.55.31 PM.mpeg -> C:\Users\rajat\OneDrive\Desktop\TestFolder\WhatsApp Audio 2026-03-23 at 1.55.31 PM.mpeg
+[INFO] 04-07-2026 15:00:41 : Undo : C:\Users\rajat\OneDrive\Desktop\TestFolder\Documents\The Ultimate HTML handbook.pdf -> C:\Users\rajat\OneDrive\Desktop\TestFolder\The Ultimate HTML handbook.pdf
+[INFO] 04-07-2026 15:00:41 : Undo : C:\Users\rajat\OneDrive\Desktop\TestFolder\Images\Screenshot 2026-02-13 192305.jpg.png -> C:\Users\rajat\OneDrive\Desktop\TestFolder\Screenshot 2026-02-13 192305.jpg.png
+[INFO] 04-07-2026 15:00:41 : Undo : C:\Users\rajat\OneDrive\Desktop\TestFolder\Videos\Screen Recording 2026-06-22 172244.mp4 -> C:\Users\rajat\OneDrive\Desktop\TestFolder\Screen Recording 2026-06-22 172244.mp4
+[INFO] 04-07-2026 15:00:41 : Undo : C:\Users\rajat\OneDrive\Desktop\TestFolder\Others\python-3.14.6-amd64.exe.sigstore -> C:\Users\rajat\OneDrive\Desktop\TestFolder\python-3.14.6-amd64.exe.sigstore
+[INFO] 04-07-2026 15:00:41 : Undo : C:\Users\rajat\OneDrive\Desktop\TestFolder\Images\Pankaj Kumar Financial Litterecy Certificate.png -> C:\Users\rajat\OneDrive\Desktop\TestFolder\Pankaj Kumar Financial Litterecy Certificate.png
+[INFO] 04-07-2026 15:00:41 : Undo : C:\Users\rajat\OneDrive\Desktop\TestFolder\Images\Pankaj Kumar Financial Litterecy Certificate - Copy.png -> C:\Users\rajat\OneDrive\Desktop\TestFolder\Pankaj Kumar Financial Litterecy Certificate - Copy.png
+[INFO] 04-07-2026 15:00:41 : Undo : C:\Users\rajat\OneDrive\Desktop\TestFolder\Images\Pankaj Kumar Financial Litterecy Certificate - Copy - Copy.png -> C:\Users\rajat\OneDrive\Desktop\TestFolder\Pankaj Kumar Financial Litterecy Certificate - Copy - Copy.png
+[INFO] 04-07-2026 15:00:41 : Undo : C:\Users\rajat\OneDrive\Desktop\TestFolder\Programs\NetMirror.apk -> C:\Users\rajat\OneDrive\Desktop\TestFolder\NetMirror.apk
+[INFO] 04-07-2026 15:32:54 : Moved : 24EJCCA170.pdf → Documents
+[INFO] 04-07-2026 15:32:54 : Moved : Adobe Scan 10 Feb 2026 (1).pdf → Documents
+[INFO] 04-07-2026 15:32:54 : Moved : C0348.MP4 → Videos
+[INFO] 04-07-2026 15:32:54 : Moved : DJI_20250308212020_0849_D_RAGHAV.MP4 → Videos
+[INFO] 04-07-2026 15:32:54 : Moved : dragon-studio-glitch-effect-1-397982.mp3 → Music
+[INFO] 04-07-2026 15:32:54 : Moved : freesound_community-glitch-sounds-26212.mp3 → Music
+[INFO] 04-07-2026 15:32:54 : Moved : IMG_0588.jpg → Images
+[INFO] 04-07-2026 15:32:54 : Moved : IMG_1453.MOV → Videos
+[INFO] 04-07-2026 15:32:54 : Moved : IMG_1466.MOV → Videos
+[INFO] 04-07-2026 15:32:54 : Moved : IMG_2550 2.MOV → Videos
+[INFO] 04-07-2026 15:32:54 : Moved : IMG_2565 2.MOV → Videos
+[INFO] 04-07-2026 15:32:54 : Moved : IMG_3413.MOV → Videos
+[INFO] 04-07-2026 15:32:54 : Moved : IMG_3414.MOV → Videos
+[INFO] 04-07-2026 15:32:54 : Moved : IMG_5157.MOV → Videos
+[INFO] 04-07-2026 15:32:54 : Moved : IMG_5158.MOV → Videos
+[INFO] 04-07-2026 15:32:54 : Moved : NetMirror.apk → Programs
+[INFO] 04-07-2026 15:32:54 : Moved : NetMirror_TV.apk → Programs
+[INFO] 04-07-2026 15:32:54 : Moved : NIFT_Converge_2025_A_glimpse_of_the_some_crazy_ah_moments_of_NIFTU_Inspiration_-_@paddy.cartwright_#NIFTConverge_#NIFTKannur_#Converge2025_#NIFTLife_#.mp4 → Videos
+[INFO] 04-07-2026 15:32:54 : Moved : python-3.14.6-amd64.exe → Programs
+[INFO] 04-07-2026 15:32:54 : Moved : python-3.14.6-amd64.exe.sigstore → Others
+[INFO] 04-07-2026 15:32:54 : Moved : QuickLook Installer.exe → Programs
+[INFO] 04-07-2026 15:32:54 : Moved : quicklook-4-4-0.exe → Programs
+[INFO] 04-07-2026 15:32:54 : Moved : Rajat.pdf → Documents
+[INFO] 04-07-2026 15:32:54 : Moved : RajatDraft1.docx.pdf → Documents
+[INFO] 04-07-2026 15:32:54 : Moved : RajatDraft2.pdf → Documents
+[INFO] 04-07-2026 15:32:54 : Moved : RajatDraft3.pdf → Documents
+[INFO] 04-07-2026 15:32:54 : Moved : Sunset beach png.jpg → Images
+[INFO] 04-07-2026 15:32:54 : Moved : UNTOLD.png → Images
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Images\UNTOLD.png -> D:/Download\UNTOLD.png
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Images\Sunset beach png.jpg -> D:/Download\Sunset beach png.jpg
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Documents\RajatDraft3.pdf -> D:/Download\RajatDraft3.pdf
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Documents\RajatDraft2.pdf -> D:/Download\RajatDraft2.pdf
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Documents\RajatDraft1.docx.pdf -> D:/Download\RajatDraft1.docx.pdf
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Documents\Rajat.pdf -> D:/Download\Rajat.pdf
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Programs\quicklook-4-4-0.exe -> D:/Download\quicklook-4-4-0.exe
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Programs\QuickLook Installer.exe -> D:/Download\QuickLook Installer.exe
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Others\python-3.14.6-amd64.exe.sigstore -> D:/Download\python-3.14.6-amd64.exe.sigstore
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Programs\python-3.14.6-amd64.exe -> D:/Download\python-3.14.6-amd64.exe
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Videos\NIFT_Converge_2025_A_glimpse_of_the_some_crazy_ah_moments_of_NIFTU_Inspiration_-_@paddy.cartwright_#NIFTConverge_#NIFTKannur_#Converge2025_#NIFTLife_#.mp4 -> D:/Download\NIFT_Converge_2025_A_glimpse_of_the_some_crazy_ah_moments_of_NIFTU_Inspiration_-_@paddy.cartwright_#NIFTConverge_#NIFTKannur_#Converge2025_#NIFTLife_#.mp4
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Programs\NetMirror_TV.apk -> D:/Download\NetMirror_TV.apk
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Programs\NetMirror.apk -> D:/Download\NetMirror.apk
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Videos\IMG_5158.MOV -> D:/Download\IMG_5158.MOV
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Videos\IMG_5157.MOV -> D:/Download\IMG_5157.MOV
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Videos\IMG_3414.MOV -> D:/Download\IMG_3414.MOV
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Videos\IMG_3413.MOV -> D:/Download\IMG_3413.MOV
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Videos\IMG_2565 2.MOV -> D:/Download\IMG_2565 2.MOV
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Videos\IMG_2550 2.MOV -> D:/Download\IMG_2550 2.MOV
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Videos\IMG_1466.MOV -> D:/Download\IMG_1466.MOV
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Videos\IMG_1453.MOV -> D:/Download\IMG_1453.MOV
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Images\IMG_0588.jpg -> D:/Download\IMG_0588.jpg
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Music\freesound_community-glitch-sounds-26212.mp3 -> D:/Download\freesound_community-glitch-sounds-26212.mp3
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Music\dragon-studio-glitch-effect-1-397982.mp3 -> D:/Download\dragon-studio-glitch-effect-1-397982.mp3
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Videos\DJI_20250308212020_0849_D_RAGHAV.MP4 -> D:/Download\DJI_20250308212020_0849_D_RAGHAV.MP4
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Videos\C0348.MP4 -> D:/Download\C0348.MP4
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Documents\Adobe Scan 10 Feb 2026 (1).pdf -> D:/Download\Adobe Scan 10 Feb 2026 (1).pdf
+[INFO] 04-07-2026 15:33:12 : Undo : D:/Download\Documents\24EJCCA170.pdf -> D:/Download\24EJCCA170.pdf
+[INFO] 04-07-2026 15:33:23 : Moved : 24EJCCA170.pdf → Documents
+[INFO] 04-07-2026 15:33:23 : Moved : Adobe Scan 10 Feb 2026 (1).pdf → Documents
+[INFO] 04-07-2026 15:33:23 : Moved : C0348.MP4 → Videos
+[INFO] 04-07-2026 15:33:23 : Moved : DJI_20250308212020_0849_D_RAGHAV.MP4 → Videos
+[INFO] 04-07-2026 15:33:23 : Moved : dragon-studio-glitch-effect-1-397982.mp3 → Music
+[INFO] 04-07-2026 15:33:23 : Moved : freesound_community-glitch-sounds-26212.mp3 → Music
+[INFO] 04-07-2026 15:33:23 : Moved : IMG_0588.jpg → Images
+[INFO] 04-07-2026 15:33:23 : Moved : IMG_1453.MOV → Videos
+[INFO] 04-07-2026 15:33:23 : Moved : IMG_1466.MOV → Videos
+[INFO] 04-07-2026 15:33:23 : Moved : IMG_2550 2.MOV → Videos
+[INFO] 04-07-2026 15:33:23 : Moved : IMG_2565 2.MOV → Videos
+[INFO] 04-07-2026 15:33:23 : Moved : IMG_3413.MOV → Videos
+[INFO] 04-07-2026 15:33:23 : Moved : IMG_3414.MOV → Videos
+[INFO] 04-07-2026 15:33:23 : Moved : IMG_5157.MOV → Videos
+[INFO] 04-07-2026 15:33:23 : Moved : IMG_5158.MOV → Videos
+[INFO] 04-07-2026 15:33:23 : Moved : NetMirror.apk → Programs
+[INFO] 04-07-2026 15:33:23 : Moved : NetMirror_TV.apk → Programs
+[INFO] 04-07-2026 15:33:23 : Moved : NIFT_Converge_2025_A_glimpse_of_the_some_crazy_ah_moments_of_NIFTU_Inspiration_-_@paddy.cartwright_#NIFTConverge_#NIFTKannur_#Converge2025_#NIFTLife_#.mp4 → Videos
+[INFO] 04-07-2026 15:33:23 : Moved : python-3.14.6-amd64.exe → Programs
+[INFO] 04-07-2026 15:33:23 : Moved : python-3.14.6-amd64.exe.sigstore → Others
+[INFO] 04-07-2026 15:33:23 : Moved : QuickLook Installer.exe → Programs
+[INFO] 04-07-2026 15:33:23 : Moved : quicklook-4-4-0.exe → Programs
+[INFO] 04-07-2026 15:33:23 : Moved : Rajat.pdf → Documents
+[INFO] 04-07-2026 15:33:23 : Moved : RajatDraft1.docx.pdf → Documents
+[INFO] 04-07-2026 15:33:23 : Moved : RajatDraft2.pdf → Documents
+[INFO] 04-07-2026 15:33:23 : Moved : RajatDraft3.pdf → Documents
+[INFO] 04-07-2026 15:33:23 : Moved : Sunset beach png.jpg → Images
+[INFO] 04-07-2026 15:33:23 : Moved : UNTOLD.png → Images
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Images\UNTOLD.png -> D:/Download\UNTOLD.png
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Images\Sunset beach png.jpg -> D:/Download\Sunset beach png.jpg
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Documents\RajatDraft3.pdf -> D:/Download\RajatDraft3.pdf
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Documents\RajatDraft2.pdf -> D:/Download\RajatDraft2.pdf
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Documents\RajatDraft1.docx.pdf -> D:/Download\RajatDraft1.docx.pdf
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Documents\Rajat.pdf -> D:/Download\Rajat.pdf
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Programs\quicklook-4-4-0.exe -> D:/Download\quicklook-4-4-0.exe
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Programs\QuickLook Installer.exe -> D:/Download\QuickLook Installer.exe
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Others\python-3.14.6-amd64.exe.sigstore -> D:/Download\python-3.14.6-amd64.exe.sigstore
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Programs\python-3.14.6-amd64.exe -> D:/Download\python-3.14.6-amd64.exe
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Videos\NIFT_Converge_2025_A_glimpse_of_the_some_crazy_ah_moments_of_NIFTU_Inspiration_-_@paddy.cartwright_#NIFTConverge_#NIFTKannur_#Converge2025_#NIFTLife_#.mp4 -> D:/Download\NIFT_Converge_2025_A_glimpse_of_the_some_crazy_ah_moments_of_NIFTU_Inspiration_-_@paddy.cartwright_#NIFTConverge_#NIFTKannur_#Converge2025_#NIFTLife_#.mp4
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Programs\NetMirror_TV.apk -> D:/Download\NetMirror_TV.apk
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Programs\NetMirror.apk -> D:/Download\NetMirror.apk
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Videos\IMG_5158.MOV -> D:/Download\IMG_5158.MOV
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Videos\IMG_5157.MOV -> D:/Download\IMG_5157.MOV
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Videos\IMG_3414.MOV -> D:/Download\IMG_3414.MOV
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Videos\IMG_3413.MOV -> D:/Download\IMG_3413.MOV
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Videos\IMG_2565 2.MOV -> D:/Download\IMG_2565 2.MOV
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Videos\IMG_2550 2.MOV -> D:/Download\IMG_2550 2.MOV
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Videos\IMG_1466.MOV -> D:/Download\IMG_1466.MOV
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Videos\IMG_1453.MOV -> D:/Download\IMG_1453.MOV
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Images\IMG_0588.jpg -> D:/Download\IMG_0588.jpg
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Music\freesound_community-glitch-sounds-26212.mp3 -> D:/Download\freesound_community-glitch-sounds-26212.mp3
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Music\dragon-studio-glitch-effect-1-397982.mp3 -> D:/Download\dragon-studio-glitch-effect-1-397982.mp3
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Videos\DJI_20250308212020_0849_D_RAGHAV.MP4 -> D:/Download\DJI_20250308212020_0849_D_RAGHAV.MP4
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Videos\C0348.MP4 -> D:/Download\C0348.MP4
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Documents\Adobe Scan 10 Feb 2026 (1).pdf -> D:/Download\Adobe Scan 10 Feb 2026 (1).pdf
+[INFO] 04-07-2026 15:33:31 : Undo : D:/Download\Documents\24EJCCA170.pdf -> D:/Download\24EJCCA170.pdf
+[INFO] 04-07-2026 15:37:19 : Moved : 24EJCCA170.pdf → Documents
+[INFO] 04-07-2026 15:37:19 : Moved : Adobe Scan 10 Feb 2026 (1).pdf → Documents
+[INFO] 04-07-2026 15:37:19 : Moved : C0348.MP4 → Videos
+[INFO] 04-07-2026 15:37:19 : Moved : DJI_20250308212020_0849_D_RAGHAV.MP4 → Videos
+[INFO] 04-07-2026 15:37:19 : Moved : dragon-studio-glitch-effect-1-397982.mp3 → Music
+[INFO] 04-07-2026 15:37:19 : Moved : freesound_community-glitch-sounds-26212.mp3 → Music
+[INFO] 04-07-2026 15:37:19 : Moved : IMG_0588.jpg → Images
+[INFO] 04-07-2026 15:37:19 : Moved : IMG_1453.MOV → Videos
+[INFO] 04-07-2026 15:37:19 : Moved : IMG_1466.MOV → Videos
+[INFO] 04-07-2026 15:37:19 : Moved : IMG_2550 2.MOV → Videos
+[INFO] 04-07-2026 15:37:19 : Moved : IMG_2565 2.MOV → Videos
+[INFO] 04-07-2026 15:37:19 : Moved : IMG_3413.MOV → Videos
+[INFO] 04-07-2026 15:37:19 : Moved : IMG_3414.MOV → Videos
+[INFO] 04-07-2026 15:37:19 : Moved : IMG_5157.MOV → Videos
+[INFO] 04-07-2026 15:37:19 : Moved : IMG_5158.MOV → Videos
+[INFO] 04-07-2026 15:37:19 : Moved : NetMirror.apk → Programs
+[INFO] 04-07-2026 15:37:19 : Moved : NetMirror_TV.apk → Programs
+[INFO] 04-07-2026 15:37:19 : Moved : NIFT_Converge_2025_A_glimpse_of_the_some_crazy_ah_moments_of_NIFTU_Inspiration_-_@paddy.cartwright_#NIFTConverge_#NIFTKannur_#Converge2025_#NIFTLife_#.mp4 → Videos
+[INFO] 04-07-2026 15:37:19 : Moved : python-3.14.6-amd64.exe → Programs
+[INFO] 04-07-2026 15:37:19 : Moved : python-3.14.6-amd64.exe.sigstore → Others
+[INFO] 04-07-2026 15:37:19 : Moved : QuickLook Installer.exe → Programs
+[INFO] 04-07-2026 15:37:19 : Moved : quicklook-4-4-0.exe → Programs
+[INFO] 04-07-2026 15:37:19 : Moved : Rajat.pdf → Documents
+[INFO] 04-07-2026 15:37:19 : Moved : RajatDraft1.docx.pdf → Documents
+[INFO] 04-07-2026 15:37:19 : Moved : RajatDraft2.pdf → Documents
+[INFO] 04-07-2026 15:37:19 : Moved : RajatDraft3.pdf → Documents
+[INFO] 04-07-2026 15:37:19 : Moved : Sunset beach png.jpg → Images
+[INFO] 04-07-2026 15:37:19 : Moved : UNTOLD.png → Images
